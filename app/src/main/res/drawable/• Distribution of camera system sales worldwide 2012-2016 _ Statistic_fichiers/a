@@ -1,0 +1,14 @@
+userlikeCallbackButtonCheck({
+    "available": [
+        {
+            "id": 18622,
+            "name": "Sales_com",
+            "first": {
+                "url_image": "https://userlike-cdn-operators.s3-eu-west-1.amazonaws.com/50b623cdd851890d22ece7e25b962b1e514301dde10502e537d229cbcd0b2746_80x80.jpg",
+                "id": 26072,
+                "name": "Daven Peng"
+            }
+        }
+    ],
+    "message": "GROUP_ONLINE"
+})
