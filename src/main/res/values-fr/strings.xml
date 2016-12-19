@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Salut le monde!</string>
+    <string name="button_text">Clique</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="msg">Ceci est un toast grillé</string>
+</resources>
